@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wennuan1012.github.io</id>
     <title>时光机</title>
-    <updated>2020-05-01T03:44:05.644Z</updated>
+    <updated>2020-05-07T01:53:09.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wennuan1012.github.io"/>
     <link rel="self" href="https://wennuan1012.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://wennuan1012.github.io/images/avatar.png</logo>
     <icon>https://wennuan1012.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 时光机</rights>
+    <entry>
+        <title type="html"><![CDATA[初相识]]></title>
+        <id>https://wennuan1012.github.io/post/chu-xiang-shi/</id>
+        <link href="https://wennuan1012.github.io/post/chu-xiang-shi/">
+        </link>
+        <updated>2020-05-07T01:44:46.000Z</updated>
+        <content type="html"><![CDATA[<p>好像是师姐即将离开的那段时间，她自己又懒得收拾她的那堆材料，于是低年级的我就成了专用小跑腿。</p>
+<p>交集并不算多，所以也就是知道名字的陌生人而已，虽然后来有了微信。</p>
+<p>所以当时我还真的是醉心科研啊，两耳不闻窗外事，当然也没有出去社交玩耍。</p>
+<p>直到反应过来的时候已经离开了，即使最后的合影也是托同学去问的，还真是一如既往的胆小啊。</p>
+<p>在某一次临近离开的聚餐上，才知道一向正直又寡言的人突然成为了单身狗。</p>
+<p>我好像一直都对学霸没有抵抗力，喜欢的点也总是奇奇怪怪。</p>
+<p>偷偷摸去微博，结果被当作僵尸粉拉黑了，谁能想到我什么都没做，仅仅是接连两天发了两张随手拍摄的花花而已。人生真是艰难啊……仅仅是想让对方欣赏一下初春盛开的桃红，就被莫名放在了黑名单里……</p>
+<p>再然后，就一气之下取关了，管他知不知道我是谁，我也是有骨气的好伐……</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[畅言]]></title>
         <id>https://wennuan1012.github.io/post/chang-yan/</id>
