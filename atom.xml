@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wennuan1012.github.io</id>
     <title>时光机</title>
-    <updated>2020-05-07T01:53:09.097Z</updated>
+    <updated>2020-05-08T12:00:53.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wennuan1012.github.io"/>
     <link rel="self" href="https://wennuan1012.github.io/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://wennuan1012.github.io/images/avatar.png</logo>
     <icon>https://wennuan1012.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 时光机</rights>
+    <entry>
+        <title type="html"><![CDATA[Brave]]></title>
+        <id>https://wennuan1012.github.io/post/brave/</id>
+        <link href="https://wennuan1012.github.io/post/brave/">
+        </link>
+        <updated>2020-05-08T11:54:18.000Z</updated>
+        <content type="html"><![CDATA[<p>年岁渐长，勇敢这个词距离我就越来越远。</p>
+<p>年少的时候会去喜欢的男生班级门口前，做一些现在看来愚蠢又幼稚的事情。</p>
+<p>现在变成遇到喜欢的人小心翼翼，又不敢说话，即使是正经事情的时候都要托别人帮忙。</p>
+<p>没错，就是合影。👭</p>
+<p>到现在也无法理解当时的小心思，一点都不愿意被旁人察觉。</p>
+<p>直到此刻再说出来当时的心情，别人也是一脸惊叹的样子，有时候这种喜欢真的是瞒的可以。</p>
+<p>如果在遇到Bojan的时候也能收藏起这些小心思，或许会是不一样的结局吧。</p>
+<p>ZZ可能是（在我看来）一个比较闷，又正直，交友圈子又小的可怜的人。虽然我总是在揣测，通过各种社交账号。</p>
+<p>也依然不能窥探一二。</p>
+<p>如果能再勇敢一点，就好了。🙃</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[初相识]]></title>
         <id>https://wennuan1012.github.io/post/chu-xiang-shi/</id>
