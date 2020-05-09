@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wennuan1012.github.io</id>
     <title>碎碎念</title>
-    <updated>2020-05-08T12:11:59.627Z</updated>
+    <updated>2020-05-09T03:49:14.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wennuan1012.github.io"/>
     <link rel="self" href="https://wennuan1012.github.io/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://wennuan1012.github.io/images/avatar.png</logo>
     <icon>https://wennuan1012.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 碎碎念</rights>
+    <entry>
+        <title type="html"><![CDATA[Disposition]]></title>
+        <id>https://wennuan1012.github.io/post/disposition/</id>
+        <link href="https://wennuan1012.github.io/post/disposition/">
+        </link>
+        <updated>2020-05-09T03:42:05.000Z</updated>
+        <content type="html"><![CDATA[<p>最近的经历告诉我，好像脱离社交软件的话，情绪可以很稳定。</p>
+<p>距离微博、微信远一点，别人如果主动找来，冷淡地回应，表示没有闲聊的时间，真的是可以心如止水啊。</p>
+<p>再也不用因为对方哪句话让自己感到不适又不敢出言反击。</p>
+<p>真的是太完美了，同时又能不用看到流量明显隔三差五的上热搜。</p>
+<p>最重要的还是能解放手机，不用再做手机重度依赖患者，同时还能避免视力下降，提高学习or工作效率，真是一举多得。😗</p>
+<figure data-type="image" tabindex="1"><img src="https://wennuan1012.github.io/post-images/1588995977310.jpeg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://wennuan1012.github.io/post-images/1588996033607.jpeg" alt="" loading="lazy"></figure>
+<p>拜托你不要打扰我呀~!</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brave]]></title>
         <id>https://wennuan1012.github.io/post/brave/</id>
