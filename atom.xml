@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wennuan1012.github.io</id>
     <title>碎碎念</title>
-    <updated>2020-05-13T02:37:09.551Z</updated>
+    <updated>2020-05-13T12:54:23.172Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wennuan1012.github.io"/>
     <link rel="self" href="https://wennuan1012.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://wennuan1012.github.io/images/avatar.png</logo>
     <icon>https://wennuan1012.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 碎碎念</rights>
+    <entry>
+        <title type="html"><![CDATA[犹如过山车的一天]]></title>
+        <id>https://wennuan1012.github.io/post/you-ru-guo-shan-che-de-yi-tian/</id>
+        <link href="https://wennuan1012.github.io/post/you-ru-guo-shan-che-de-yi-tian/">
+        </link>
+        <updated>2020-05-13T12:31:19.000Z</updated>
+        <content type="html"><![CDATA[<p>如何来形容今天呢……</p>
+<p>上午给海尔打了客服电话……</p>
+<p>下午突然看到中国科学院大学发布的博士考试安排……京内的走申请审核……</p>
+<p>就这么觉得人生的绝望可能也不过如此了吧  虽然可能我也并不是努力到天怒人怨，但就是觉得可能别人比我更幸运吧……</p>
+<p>可能还是年少的时候没努力考个985……所以到这个时候 除了无奈也并不能做什么 啊对 还有一个糟糕的坏心情</p>
+<p>容易焦虑的心情……在这一天被无限放大……🙃</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[社交]]></title>
         <id>https://wennuan1012.github.io/post/she-jiao/</id>
