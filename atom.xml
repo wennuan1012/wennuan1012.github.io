@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wennuan1012.github.io</id>
     <title>碎碎念</title>
-    <updated>2020-05-09T03:51:37.304Z</updated>
+    <updated>2020-05-13T02:37:09.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wennuan1012.github.io"/>
     <link rel="self" href="https://wennuan1012.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://wennuan1012.github.io/images/avatar.png</logo>
     <icon>https://wennuan1012.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 碎碎念</rights>
+    <entry>
+        <title type="html"><![CDATA[社交]]></title>
+        <id>https://wennuan1012.github.io/post/she-jiao/</id>
+        <link href="https://wennuan1012.github.io/post/she-jiao/">
+        </link>
+        <updated>2020-05-13T02:24:54.000Z</updated>
+        <content type="html"><![CDATA[<p>最近好像越来越讨厌社交，越来越讨厌微信突如其来的各种消息。</p>
+<p>尤其是博士的线上考试……</p>
+<p>我是多么的讨厌在线考试……</p>
+<p>在线考试就是没有那种考试的氛围……就像是可以在家一边吃着零食一边做着题一样……没有丝毫紧迫感</p>
+<p>就像在考场里听到别人翻卷子的声音才有安全感一样……在家里，真的会有很多干扰因素……毕竟不同于复试吧……</p>
+<p>真的好想关闭微信啊(*￣︶￣)😒</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disposition]]></title>
         <id>https://wennuan1012.github.io/post/disposition/</id>
