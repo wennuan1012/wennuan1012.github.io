@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wennuan1012.github.io</id>
     <title>碎碎念</title>
-    <updated>2020-05-13T12:54:23.172Z</updated>
+    <updated>2020-07-15T09:51:16.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wennuan1012.github.io"/>
     <link rel="self" href="https://wennuan1012.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://wennuan1012.github.io/images/avatar.png</logo>
     <icon>https://wennuan1012.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 碎碎念</rights>
+    <entry>
+        <title type="html"><![CDATA[窗外雨潺潺]]></title>
+        <id>https://wennuan1012.github.io/post/chuang-wai-yu-chan-chan/</id>
+        <link href="https://wennuan1012.github.io/post/chuang-wai-yu-chan-chan/">
+        </link>
+        <updated>2020-07-15T09:43:40.000Z</updated>
+        <content type="html"><![CDATA[<p>今年夏天的雨比以往任何时候都多，还有如黄豆大小的冰雹，砸在玻璃上，似乎是要穿透玻璃而来。<br>
+内心久久不能平静，执念未消，意难平。<br>
+心理暗示也并没有起到任何作用…<br>
+归结到底可能大约还是阿Q精神罢…<br>
+还是努力不够…智商不足…<br>
+梦里还是会想要得到，可能内心的潜意识并没有被自己的想法骗过……<br>
+想自闭……想像铃子一样……攒够一百万就搬离……永远在逃避……永远都有陌生感……<br>
+当，终于不再被人关心的时候，长长的松了一口气，这种感觉就像是长久以来的压力骤然消失，让人能大口呼吸。<br>
+最近自闭到，觉得好似所有人都在与我作对，暴躁的坏脾气隐忍不发，不知还能坚持多久……</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[犹如过山车的一天]]></title>
         <id>https://wennuan1012.github.io/post/you-ru-guo-shan-che-de-yi-tian/</id>
